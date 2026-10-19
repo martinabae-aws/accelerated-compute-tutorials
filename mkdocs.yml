@@ -90,6 +90,14 @@ plugins:
             Storage: 스토리지
             Optimization Guide: 최적화 가이드
             Benchmark & PoC Methodology: 벤치마크 & PoC 방법론
+            DLAMI Host Setup & Validation: DLAMI 호스트 구성·검증
+            Slurm + Pyxis + Enroot: Slurm + Pyxis + Enroot
+            Container Image (NGC + EFA): 컨테이너 이미지 (NGC + EFA)
+            GDS (GPUDirect Storage): GDS (GPUDirect Storage)
+            MoE / Hybrid-EP: MoE / Hybrid-EP 검증
+            EFA (Elastic Fabric Adapter): EFA (Elastic Fabric Adapter)
+            Reference Architectures: 실전 아키텍처
+            Slurm-based GPU Training Cluster: Slurm 기반 GPU 학습 클러스터
             Training & Events: 교육 및 행사
             Training Programs: 교육
             Events: 행사
@@ -196,13 +204,19 @@ nav:
       - AI Infra Design:
           - ai-infra/decisions/index.md
           - Infra Decision Guide: ai-infra/infra-decision-guide.md
-          - Accelerator Selection Guide: ai-infra/gpu-selection-guide.md
+          - Accelerator Selection Guide: ai-infra/xc-selection-guide.md
           - Region Selection Guide: ai-infra/self-hosted-llm-considerations.md
       - AI Infra Setup:
           - ai-infra/environment/index.md
-          - Docker/DLC: ai-infra/docker-dlc.md
-          - Networking: ai-infra/efa-networking.md
-          - Storage: ai-infra/storage.md
+          - DLAMI Host Setup & Validation: ai-infra/environment/dlami-host-setup.md
+          - Slurm + Pyxis + Enroot: ai-infra/environment/slurm-pyxis-enroot.md
+          - Container Image (NGC + EFA): ai-infra/environment/container-ngc-efa.md
+          - GDS (GPUDirect Storage): ai-infra/environment/gds-gpudirect-storage.md
+          - EFA (Elastic Fabric Adapter): ai-infra/efa-setup.md
+          - MoE / Hybrid-EP: ai-infra/environment/moe-hybrid-ep.md
+      - Reference Architectures:
+          - ai-infra/architectures/index.md
+          - Slurm-based GPU Training Cluster: ai-infra/architectures/large-scale-gpu-training.md
       - AI Infra Operations:
           - ai-infra/operations/index.md
           - Monitoring & Scaling: ai-infra/operations/monitoring-scaling.md
@@ -214,7 +228,6 @@ nav:
           - Storage: ai-infra/deep-dive/storage.md
           - Networking: ai-infra/deep-dive/networking.md
           - Optimization Guide: ai-infra/optimization-guide.md
-          - Benchmark & PoC Methodology: ai-infra/benchmark-poc.md
       - NVIDIA GPU:
           - nvidia-gpu/index.md
           - NVIDIA GPU Instances: nvidia-gpu/instance-guide.md

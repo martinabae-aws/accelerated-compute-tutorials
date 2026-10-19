@@ -192,7 +192,7 @@ Q7. On-premises integration?
 
 After choosing Self-Managed (EKS/EC2), the next question is **which GPU/accelerator to use:**
 
-→ See **[Accelerator Selection Guide](../gpu-selection-guide/)**
+→ See **[Accelerator Selection Guide](xc-selection-guide.md)**
 
 Summary:
 
@@ -273,5 +273,5 @@ Questions to confirm in the first meeting:
 
 ## References
 
-- [Accelerator Selection Guide](../gpu-selection-guide/) — GPU/instance matching after deciding on Self-Managed
+- [Accelerator Selection Guide](xc-selection-guide.md) — GPU/instance matching after deciding on Self-Managed
 - [EKS Best Practices: AI/ML](https://docs.aws.amazon.com/eks/latest/best-practices/aiml.html) — Best practices for AI workloads on EKS

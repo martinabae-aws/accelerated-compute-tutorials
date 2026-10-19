@@ -190,7 +190,7 @@ Q7. 온프레미스 연계?
 
 Self-Managed(EKS/EC2) 선택 후, 다음은 **어떤 GPU/가속기를 쓸 것인가** :
 
-→ **[가속기 선택 가이드](../gpu-selection-guide/)** 참조
+→ **[가속기 선택 가이드](xc-selection-guide.md)** 참조
 
 요약:
 
@@ -272,6 +272,6 @@ Self-Managed(EKS/EC2) 선택 후, 다음은 **어떤 GPU/가속기를 쓸 것인
 
 ## 참고
 
-- [가속기 선택 가이드](../gpu-selection-guide/) — Self-Managed 결정 후 GPU/인스턴스 매칭
+- [가속기 선택 가이드](xc-selection-guide.md) — Self-Managed 결정 후 GPU/인스턴스 매칭
 - [EKS Best Practices: AI/ML](https://docs.aws.amazon.com/eks/latest/best-practices/aiml.html) — EKS 위 AI 워크로드 베스트 프랙티스
 

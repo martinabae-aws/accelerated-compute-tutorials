@@ -22,6 +22,6 @@ Guides for running AI/ML workloads on NVIDIA GPU instances (P5, P5e, P6-B300, G6
 
     Workload-based decisions, metrics, and cost comparison.
 
-    [:octicons-arrow-right-24: Selection Guide](../ai-infra/gpu-selection-guide.md)
+    [:octicons-arrow-right-24: Selection Guide](../ai-infra/xc-selection-guide.md)
 
 </div>

@@ -1351,7 +1351,7 @@ flowchart TD
 - **구매 옵션 결정** — On-Demand, Capacity Blocks, Spot, ODCR 중 워크로드 패턴에 맞는 방식 선택 → [가속기 구매 옵션 가이드](purchase-options/index.md)
 - **리전 선택** — 가속기별 리전 가용성, 약정 기간(1년/3년), 데이터 소버린티, 사용자 대비 네트워크 레이턴시 고려 → [Self-hosted LLM 고려사항](self-hosted-llm-considerations.md)
 - **모델 메모리 산정** — 가중치 + KV Cache + Activation 총합이 선택한 인스턴스 VRAM 내에 들어오는지 확인 (이 가이드 [섹션 3](#3-메모리-요구량-산정) 참고)
-- **인프라 Deep Dive** — EFA, NVLink, GPUDirect Storage 등 멀티노드·스토리지 구성에 대해 자세히 알아보기 → [EFA 네트워킹 가이드](efa-networking.md)
-- **벤치마크 & PoC** — 실 트래픽 패턴으로 검증 후 최종 확정 → [벤치마크 & PoC 방법론](benchmark-poc.md)
+- **인프라 Deep Dive** — EFA, NVLink, GPUDirect Storage 등 멀티노드·스토리지 구성에 대해 자세히 알아보기 → [EFA 네트워킹 가이드](efa-setup.md)
+- **벤치마크 & PoC** — 실 트래픽 패턴으로 검증 후 최종 확정 → [벤치마크 & PoC 방법론](environment/slurm-pyxis-enroot.md#distributed-training-validation)
 
 *Author: Suji Lee · GTM Specialist SA, APJ AI Infrastructure*

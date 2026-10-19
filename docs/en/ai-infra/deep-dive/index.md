@@ -38,6 +38,6 @@ Advanced technical analysis — storage and networking performance optimization,
 
     Defining performance measurement criteria and designing comparison tests.
 
-    [:octicons-arrow-right-24: Benchmark & PoC](../benchmark-poc.md)
+    [:octicons-arrow-right-24: Benchmark & PoC](../environment/slurm-pyxis-enroot.md#distributed-training-validation)
 
 </div>

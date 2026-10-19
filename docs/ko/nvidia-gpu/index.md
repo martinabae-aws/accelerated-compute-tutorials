@@ -22,6 +22,6 @@ AWS에서 NVIDIA GPU 인스턴스(P5, P5e, P6-B300, G6e, G7e 등)로 AI/ML 워�
 
     워크로드 기반 의사결정, 메트릭, 비용 비교.
 
-    [:octicons-arrow-right-24: 선택 가이드](../ai-infra/gpu-selection-guide.md)
+    [:octicons-arrow-right-24: 선택 가이드](../ai-infra/xc-selection-guide.md)
 
 </div>

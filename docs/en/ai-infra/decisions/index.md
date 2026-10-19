@@ -22,7 +22,7 @@ From workload analysis to accelerator and Region selection — the key guides to
 
     From workload analysis to accelerator selection — a technical review guide for choosing the optimal accelerator.
 
-    [:octicons-arrow-right-24: Accelerator Selection Guide](../gpu-selection-guide.md)
+    [:octicons-arrow-right-24: Accelerator Selection Guide](../xc-selection-guide.md)
 
 -   :material-map-marker:{ .lg .middle } **Region Selection Considerations**
 

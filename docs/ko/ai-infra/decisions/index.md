@@ -22,7 +22,7 @@ title: AI 인프라 설계
 
     워크로드 분석부터 가속기 선택까지 — 최적의 가속기를 선택하기 위한 기술 검토 가이드.
 
-    [:octicons-arrow-right-24: 가속기 선택 가이드](../gpu-selection-guide.md)
+    [:octicons-arrow-right-24: 가속기 선택 가이드](../xc-selection-guide.md)
 
 -   :material-map-marker:{ .lg .middle } **리전 선택 고려사항**
 

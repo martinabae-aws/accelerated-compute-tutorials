@@ -1351,7 +1351,7 @@ Once you've chosen an accelerator, also review the items below before actually c
 - **Deciding the purchase option** — Choose the method that fits your workload pattern among On-Demand, Capacity Blocks, Spot, and ODCR → [Accelerator Purchase Options Guide](purchase-options/index.md)
 - **Region selection** — Consider per-accelerator regional availability, commitment term (1 year/3 years), data sovereignty, and network latency relative to users → [Self-hosted LLM considerations](self-hosted-llm-considerations.md)
 - **Model memory estimation** — Verify that the total of weights + KV Cache + Activation fits within the chosen instance's VRAM (see [Section 4](#memory-sizing) of this guide)
-- **Infrastructure deep dive** — Learn more about multi-node/storage configurations such as EFA, NVLink, and GPUDirect Storage → [EFA Networking Guide](efa-networking.md)
-- **Benchmark & PoC** — Validate with real traffic patterns before finalizing → [Benchmark & PoC methodology](benchmark-poc.md)
+- **Infrastructure deep dive** — Learn more about multi-node/storage configurations such as EFA, NVLink, and GPUDirect Storage → [EFA Networking Guide](efa-setup.md)
+- **Benchmark & PoC** — Validate with real traffic patterns before finalizing → [Benchmark & PoC methodology](environment/slurm-pyxis-enroot.md#distributed-training-validation)
 
 *Author: Suji Lee · GTM Specialist SA, APJ AI Infrastructure*

@@ -38,6 +38,6 @@ title: AI 인프라 Deep Dive
 
     성능 측정 기준 정의, 비교 테스트 설계.
 
-    [:octicons-arrow-right-24: 벤치마크 & PoC](../benchmark-poc.md)
+    [:octicons-arrow-right-24: 벤치마크 & PoC](../environment/slurm-pyxis-enroot.md#distributed-training-validation)
 
 </div>

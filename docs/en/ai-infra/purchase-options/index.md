@@ -169,4 +169,4 @@ AWS offers a range of purchase models for diverse workloads. Some provide immedi
 **Learn more**
 
 - [Capacity Blocks Practical Guide](../capacity-blocks-guide.md) | Step-by-step process from viewing offerings to reserving and running instances in the console |
-- [Accelerator Selection Guide](../gpu-selection-guide.md) | A technical-review framework from workload analysis to accelerator selection |
+- [Accelerator Selection Guide](../xc-selection-guide.md) | A technical-review framework from workload analysis to accelerator selection |
